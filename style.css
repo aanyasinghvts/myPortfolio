@@ -1,0 +1,54 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.division{
+    background-color: pink;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.header{
+    background-color: powderblue;
+    display: flex;
+    justify-content: space-between;
+}
+.Trex{
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Game2{
+    background-color: royalblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Game3{
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Game4{
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Game5{
+    background-color: royalblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.links{
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+}
